@@ -30,7 +30,7 @@
     "ember-cli-htmlbars": "^4.0.5",
     "ember-cli-sass": "^10.0.1",
     "ember-click-outside": "^1.2.0",
-    "ember-composable-helpers": "^3.0.0",
+    "ember-composable-helpers": "^3.2.0",
     "ember-element-resize": "2.0.1",
     "ember-tether": "^1.0.0",
     "ember-truth-helpers": "^2.1.0",
